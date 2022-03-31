@@ -1,0 +1,30 @@
+{
+    "Free": "430 MB",
+    "Total": "5876 MB",
+    "Usage": "92.68%"
+}
+{
+    "Free": "420 MB",
+    "Total": "5876 MB",
+    "Usage": "92.85%"
+}
+{
+    "Free": "426 MB",
+    "Total": "5876 MB",
+    "Usage": "92.75%"
+}
+{
+    "Free": "428 MB",
+    "Total": "5876 MB",
+    "Usage": "92.72%"
+}
+{
+    "Free": "429 MB",
+    "Total": "5876 MB",
+    "Usage": "92.70%"
+}
+{
+    "Free": "451 MB",
+    "Total": "5876 MB",
+    "Usage": "92.32%"
+}
